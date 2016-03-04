@@ -1,0 +1,1 @@
+FuzzTalk is an XML driven fuzz testing framework that emphasizes easy extensibility and reusability. While most fuzzing frameworks require in depth programming knowledge, FuzzTalk can test a wide range of network protocols with the help of XML templates. Includes scripts for fuzzing HTTP, FTP, and SMTP servers.
